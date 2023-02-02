@@ -1,2 +1,2 @@
-# CodyNorth04.github.io
-Just trying to make a site
+# Cody North Website
+I am not sure what this is
