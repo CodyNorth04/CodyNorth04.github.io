@@ -1,2 +1,2 @@
-# Cody North Website
+# Website
 I am not sure what this is
