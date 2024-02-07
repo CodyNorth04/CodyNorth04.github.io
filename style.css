@@ -41,7 +41,8 @@ nav ul li a:hover {
 
 /* Main content styles */
 main {
-    background-color: #fff; /* White background */
+    background-image: url(/docs/assets/images/deltbackground.jpg); /* Replace 'background-image.jpg' with your image filename */
+    background-repeat: repeat; /* Repeat both horizontally and vertically */
     padding: 20px;
 }
 
